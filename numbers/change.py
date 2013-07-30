@@ -1,12 +1,17 @@
 from math import floor
 
-print("Input amount of change: \n");
-target = input(">");
+cost = input("Input cost: \n");
+target = input("Input amount of money given: \n")
 
 if (isinstance(target, float)):
 	target = target*100
+if (isinstance(cost, float)):
+	cost = cost*100
 
-
+if cost-target > 0:
+	print("You need to pay more money to cover the cost.\n")
+	exit(0)
+target = target-cost
 q = floor(target/25)
 target = target-(q*25)
 d = floor(target/10)
