@@ -14,4 +14,17 @@ Numbers
 
 [**Calculator**](https://github.com/Heugal/martyr2-mega-project/blob/master/numbers/calc.py) - A simple calculator to do basic operators. Make it a scientific calculator for added complexity.
 
+Text
+---------
+
+[**Palindrome**](https://github.com/Heugal/martyr2-mega-project/blob/master/text/palindrome.py) - User enters a string and the program returns a palindrome.
+
+[**Pig Latin**](https://github.com/Heugal/martyr2-mega-project/blob/master/text/piglatin.py) - User enters a string and the program translates it into pig latin.
+
+[**Reverse String**](https://github.com/Heugal/martyr2-mega-project/blob/master/text/reverseString.py) - User enters a string and the program reverses it.
+
+[**Ceaser cipher encrypt**](https://github.com/Heugal/martyr2-mega-project/blob/master/text/caesar.py) - User enters a file and the program encrypts the text using a Caesar cipher.
+
+[**Caesar cipher decrypt**](https://github.com/Heugal/martyr2-mega-project/blob/master/text/decrypt.py) - User enters a Caesar cipher encrypted file and the program decrypts it.
+
 
